@@ -16,7 +16,7 @@ ___Welcome to my personal website.  Don't worry, it's just temporary   :)___
 * IT and AI pro in the making
 * still learning how to code properly
 
-## **Visit my GitHub page here**
+## **Visit my GitHub profile here**
 
 > [maadZia's GitHub](https://github.com/maadZia)
 
