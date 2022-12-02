@@ -16,6 +16,15 @@ layout: default
 * IT and AI pro in the making
 * still learning how to code properly
 
+```c
+int print_int_tab(int t[], int n)
+{
+    for(int i=0; i<n; i++)
+    {
+        printf("%d ",t[i]);
+    }
+}
+```
 <br>
 
 ## **Visit my GitHub profile here**
