@@ -20,4 +20,10 @@ ___Welcome to my personal website.  Don't worry, it's just temporary   :)___
 
 > [maadZia's GitHub](https://github.com/maadZia)
 
-## What else...
+## Here's my cute dog to make your day
+
+***
+
+![](https://github.com/maadZia/maadZia.github.io/blob/main/dog.jpg)
+
+***
