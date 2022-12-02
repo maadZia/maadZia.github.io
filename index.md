@@ -24,6 +24,6 @@ ___Welcome to my personal website.  Don't worry, it's just temporary   :)___
 
 ***
 
-![](https://github.com/maadZia/maadZia.github.io/blob/main/dog.jpg)
+![](docs/assets/dog.jpg)
 
 ***
