@@ -12,8 +12,8 @@ ___Welcome to my personal website.  Don't worry, it's just temporary   :)___
 
 * just an ordinary student
 
-## Visit my Github page here
+## Visit my GitHub page here
 
-> [maadZia's github](https://github.com/maadZia)
+> [maadZia's GitHub](https://github.com/maadZia)
 
 ## What else...
