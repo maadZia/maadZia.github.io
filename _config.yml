@@ -1,6 +1,3 @@
-title: Hi!
-author: maadZia
-description: IT Tools
-theme: minima
-minima:
-  skin: solarized-light
+title: maadZia
+description: perfectly done homework
+theme: jekyll-theme-cayman
