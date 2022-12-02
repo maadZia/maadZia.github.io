@@ -4,7 +4,7 @@ layout: default
 
 ***
 
-# ___Welcome to my personal website.  Don't worry, it's just temporary :)___ 
+## ___Welcome to my personal website.  Don't worry, it's just temporary :)___ 
 
 ***
 
