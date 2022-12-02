@@ -20,7 +20,7 @@ ___Welcome to my personal website.  Don't worry, it's just temporary   :)___
 
 > [maadZia's GitHub](https://github.com/maadZia)
 
-## Here's my cute dog to make your day
+### _here's my cute dog to make your day_
 
 ***
 
