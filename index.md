@@ -8,7 +8,7 @@ ___Welcome to my personal website.  Don't worry, it's just temporary   :)___
 
 ***
 
-## Something about me
+## **Something about me**
 
 * just an ordinary hardworking student at AGH University of Science and Technology
 * passionate musician
@@ -16,11 +16,11 @@ ___Welcome to my personal website.  Don't worry, it's just temporary   :)___
 * IT and AI pro in the making
 * still learning how to code properly
 
-## Visit my GitHub page here
+## **Visit my GitHub page here**
 
 > [maadZia's GitHub](https://github.com/maadZia)
 
-### _here's my cute dog to make your day_
+### here's my cute dog to make your day
 
 ***
 
